@@ -11,7 +11,7 @@
 
 ![Result](https://github.com/negiaditya/PROJECTS-Data_Science/blob/master/Image%20Caption%20Generator/Results/Capt3.PNG)
 
-![Resulthttps://github.com/negiaditya/PROJECTS-Data_Science/blob/master/Image%20Caption%20Generator/Results/Capt4.PNG)
+![Result](https://github.com/negiaditya/PROJECTS-Data_Science/blob/master/Image%20Caption%20Generator/Results/Capt4.PNG)
 
 ![Result](https://github.com/negiaditya/PROJECTS-Data_Science/blob/master/Image%20Caption%20Generator/Results/Capt5.PNG)
 
