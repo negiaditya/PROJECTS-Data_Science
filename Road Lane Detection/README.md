@@ -1,5 +1,5 @@
 # Road-Lane-detection
 Detecting road lane using openCV.
 
-![result](https://github.com/negiaditya/PROJECT-Road-Lane-detection/blob/master/Figure_1.png)
+![result](https://github.com/negiaditya/PROJECTS-Data_Science/blob/master/Road%20Lane%20Detection/Figure_1.png)
 
