@@ -1,0 +1,1 @@
+# Build a module that tags Brand, Color, Size values for the given product title. Tag these values for all the records in the given dataset. Create an API that takes a title and returns the tagged attributes. Dockerize the above module.
